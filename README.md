@@ -1,2 +1,2 @@
-# Project1
-MATLAB files for version control
+# Errors, Floating Point
+Project 1 for the coursae MA402: Scientific Computing
